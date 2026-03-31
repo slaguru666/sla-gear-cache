@@ -1,0 +1,32 @@
+{
+  "id": "sla-gear-cache",
+  "title": "SLA Gear Cache",
+  "description": "Generates ammo caches, med packs, breach kits, and requisition bundles for SLA operations.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.350",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Tim Evans"
+    }
+  ],
+  "esmodules": [
+    "module/sla-gear-cache.mjs"
+  ],
+  "styles": [
+    "styles/sla-gear-cache.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/slaguru666/sla-gear-cache/main/module.json",
+  "download": "https://github.com/slaguru666/sla-gear-cache/releases/latest/download/sla-gear-cache.zip",
+  "url": "https://github.com/slaguru666/sla-gear-cache"
+}

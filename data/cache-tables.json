@@ -1,0 +1,26 @@
+{
+  "ammo": [
+    { "name": "Ammo: 3mm [STD]", "quantity": 8, "weight": 0, "cost": 3 },
+    { "name": "Ammo: 3mm SMG [HE]", "quantity": 4, "weight": 0, "cost": 3 },
+    { "name": "Ammo: 3mm [AP]", "quantity": 4, "weight": 0, "cost": 3 },
+    { "name": "Ammo: Shotgun Shells", "quantity": 10, "weight": 0.2, "cost": 4 }
+  ],
+  "medical": [
+    { "name": "BOOPA Medical Kit (Standard)", "quantity": 1, "weight": 1.5, "cost": 50 },
+    { "name": "Stim Patch", "quantity": 2, "weight": 0.1, "cost": 15 },
+    { "name": "Rush", "quantity": 1, "weight": 0, "cost": 50, "type": "drug" },
+    { "name": "Bandage Pack", "quantity": 3, "weight": 0.1, "cost": 4 }
+  ],
+  "breach": [
+    { "name": "Flashbang Grenade", "quantity": 2, "weight": 0.3, "cost": 25 },
+    { "name": "Entrenching Tool", "quantity": 1, "weight": 1, "cost": 12 },
+    { "name": "Duct Tape (Roll)", "quantity": 2, "weight": 0.2, "cost": 2 },
+    { "name": "Cutting Charge", "quantity": 1, "weight": 0.6, "cost": 75 }
+  ],
+  "surveillance": [
+    { "name": "UV / Multi-Spectrum Torch", "quantity": 1, "weight": 0.3, "cost": 15 },
+    { "name": "Klippo Multi-Band Communicator", "quantity": 1, "weight": 0.3, "cost": 150 },
+    { "name": "Disposable Camera Drone", "quantity": 1, "weight": 0.4, "cost": 80 },
+    { "name": "Oyster Card (ITB Card)", "quantity": 1, "weight": 0, "cost": 5 }
+  ]
+}
