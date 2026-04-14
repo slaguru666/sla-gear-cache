@@ -163,6 +163,7 @@ class SlaGearCacheApp extends FormApplication {
 }
 
 function installActorButton(app, html) {
+  if (!game.user?.isGM) return;
   const root = getHtmlRoot(html);
   const header = root?.querySelector(".directory-header .header-actions, .directory-header .action-buttons");
   if (!header || header.querySelector(".sla-gear-cache-open")) return;
